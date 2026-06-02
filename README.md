@@ -53,22 +53,6 @@ No Critical, High, Medium, or Low severity vulnerabilities were detected.
 * Interpreting vulnerability scan reports.
 * Learning security assessment methodologies.
 
-## Repository Structure
-
-├── README.md
-
-├── Report.md
-
-└── screenshots/
-
-```
-├── scan_setup.png
-
-├── scan_summary.png
-
-├── vulnerabilities.png
-```
-
 ## Conclusion
 
 This task provided practical experience with vulnerability assessment and security analysis using an industry-standard cybersecurity tool.
